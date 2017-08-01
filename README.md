@@ -3,7 +3,7 @@
 
 ## Account Setup
 Please see the [Getting Started Section](https://chatbase.com/documentation/getting-started) for information
-on configuring one's account and obtaining and API key.
+on configuring one's account and obtaining an API key.
 
 ## Using the library
 
