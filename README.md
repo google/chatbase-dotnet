@@ -7,8 +7,6 @@ on configuring one's account and obtaining an API key.
 
 ## Using the library
 
-## Using the module
-
 #### One can send individual messages to the Generic and Facebook rest APIs:
 
 Generic:
