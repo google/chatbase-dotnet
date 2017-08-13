@@ -1,7 +1,10 @@
-# Chatbase
-##### `Chatbase` is a .NET library for the [Chatbase API](https://chatbase.com/documentation/ref)
+# .NET Library for Chatbase
+##### A .NET library for the [Chatbase API](https://chatbase.com/documentation/ref) written in C#
 
 > This is not an official Google product.
+
+## Package Information
+[Nuget package page](https://www.nuget.org/packages/Chatbase/1.0.0)
 
 ## Install
 Using the [Package Manager Console](https://docs.nuget.org/docs/start-here/using-the-package-manager-console) run the following command:
